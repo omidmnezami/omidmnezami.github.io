@@ -69,7 +69,8 @@ ul, ol, dl {
 
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Lato', sans-serif;
+  font-family:  inherit;
+  ;
   font-weight: 400;
   margin-bottom: .5rem;
   line-height: 1.25;
@@ -77,7 +78,7 @@ h1, h2, h3, h4, h5, h6 {
   text-rendering: optimizeLegibility;
 }
 h1 {
-  font-size: 2.25rem;
+  font-size: 1.8rem;
 }
 h2 {
   margin-top: 1rem;
@@ -1113,4 +1114,12 @@ div.alert a:hover {
   color: #fff;
   background-color: #f44336; /* Material Red500 */
   border-color: #ebccd1;
+}
+
+.logo-ima{
+  width: 200px;
+  height: 200px;
+  border-radius: 0%;
+  /* overflow: hidden; */
+  margin-top: 10px;
 }
