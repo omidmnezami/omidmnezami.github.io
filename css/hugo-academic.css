@@ -1117,9 +1117,9 @@ div.alert a:hover {
 }
 
 .logo-ima{
-  width: 200px;
-  height: 200px;
-  border-radius: 0%;
+  width: 180px;
+  height: 180px;
+  border-radius: 5%;
   /* overflow: hidden; */
-  margin-top: 10px;
+  margin-top: 5px;
 }
